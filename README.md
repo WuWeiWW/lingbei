@@ -14,7 +14,7 @@
             "recharge_amount"=> "100",
             "recharge_mobile"=> "13111111111",
             "recharge_type"=> "1",
-            "key"=> "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",  //次参数必须传入，获取sign
+            "key"=> "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",  //此参数必须传入，获取sign
             );
      * code
      * @return string
